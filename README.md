@@ -17,6 +17,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Overview
 
+![desktop-design](https://user-images.githubusercontent.com/76195521/114955796-50f89380-9e12-11eb-8720-cfcbde3d68fb.jpg)
+
 ### The challenge
 
 - Build out the project to the designs provided

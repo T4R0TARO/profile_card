@@ -19,12 +19,18 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ![desktop-design](https://user-images.githubusercontent.com/76195521/114955796-50f89380-9e12-11eb-8720-cfcbde3d68fb.jpg)
 
+![mobile-design](https://user-images.githubusercontent.com/76195521/114955870-75ed0680-9e12-11eb-90d2-9dfea5871425.jpg)
+
+
 ### The challenge
 
 - Build out the project to the designs provided
 
 ### Screenshot
 
+![Screenshot_2021-04-15 Frontend Mentor Profile card component](https://user-images.githubusercontent.com/76195521/114956239-4ee30480-9e13-11eb-9be4-a1514315cea5.png)
+
+![Screenshot_2021-04-15 Frontend Mentor Profile card component(1)](https://user-images.githubusercontent.com/76195521/114956261-5bfff380-9e13-11eb-97f4-785bbb0a3882.png)
 
 ### Links
 

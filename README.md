@@ -73,7 +73,7 @@ flex is the shorthand for flex-grow and flex-shrink and by giving the flex-items
 }
 
 
-### Continued development
+### Continued development 💪 🍡
 
 I will continue to familiarize myself with flex-box concept. Later maybe add animation to the background img.
 
